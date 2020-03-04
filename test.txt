@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AEE2-93BC
+
+ Directory of C:\Users\Spidy\Desktop\GitProject
+
+04-03-2020  22:15    <DIR>          .
+04-03-2020  22:15    <DIR>          ..
+04-03-2020  22:15                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  139,416,637,440 bytes free
